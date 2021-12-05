@@ -1,6 +1,5 @@
 package com.pozdeev.HelloWorld.controllers;
 
-
 public class Message {
 
     private String text;
